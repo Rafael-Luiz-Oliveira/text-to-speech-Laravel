@@ -13,7 +13,7 @@ O projeto foi desenvolvido seguindo as boas práticas de programação, com uma 
 
 ## 📸 Screenshots
 
-https://github.com/user-attachments/assets/cdd9ef5a-8579-4b81-8151-532079e00708
+[https://github.com/user-attachments/assets/cdd9ef5a-8579-4b81-8151-532079e00708](https://github.com/user-attachments/assets/207f5406-9a10-464f-b805-b9b5a4669166)
 
 
 ## 🛠️ Tecnologias Utilizadas
